@@ -4,5 +4,3 @@ Simple nodejs boilerplate to unfollow other users on Instagram. I made it to hel
 # .env
 IG_USERNAME = 
 IG_PASSWORD = 
-# Uncomment this to set a proxy
-# IG_PROXY=
